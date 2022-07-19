@@ -27,6 +27,7 @@ button {
 }
 
 h1{
+    text-transform: lowercase;
     font-weight: 400;
     font-size: 70px;
     line-height: 80px;
